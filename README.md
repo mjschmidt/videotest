@@ -2,6 +2,9 @@
 Testing Git Video Markdown
 
 
+<video src="vlc-record-2019-08-11-07h08m29s-tedx.mp4-.mp4" poster="sinek.PNG" width="320" height="200" controls preload></video>
+
+
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="sinek.PNG">
