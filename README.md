@@ -1,9 +1,9 @@
 # videotest
-Testing Git Video Markdown
+This is a link to the tedx talk by simon sinek
 
 
 
-[![Sinek](sinek.PNG)](test.mp4)
+[![Sinek](sinek.PNG)](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 <video src="vlc-record-2019-08-11-07h08m29s-tedx.mp4-.mp4" poster="sinek.PNG" width="320" height="200" controls preload></video>
 
